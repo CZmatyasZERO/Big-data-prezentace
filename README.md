@@ -1,3 +1,3 @@
 # Big data
-Od: Matyáš Klimeš
-Třída: I11
+- Od: Matyáš Klimeš
+- Třída: I11
